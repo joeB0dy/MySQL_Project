@@ -1,0 +1,8 @@
+{
+  "name": "domain-repo",
+  "version": "1.0.0",
+  "private": true,
+  "lint-staged": {
+    "**/*": "npx prettier --write --ignore-unknown"
+  }
+}
